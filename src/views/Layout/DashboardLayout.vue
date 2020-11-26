@@ -14,20 +14,20 @@
 
         <sidebar-item
             :link="{
-              name: 'Icons',
+              name: 'Accomodation',
               path: '/icons',
               icon: 'ni ni-planet text-blue'
               }"
             >
         </sidebar-item>
 
-        <sidebar-item
+        <!-- <sidebar-item
               :link="{
                 name: 'Maps',
                 path: '/maps',
                 icon: 'ni ni-pin-3 text-orange'
               }">
-        </sidebar-item>
+        </sidebar-item> -->
 
         <sidebar-item
               :link="{
@@ -52,13 +52,13 @@
                     icon: 'ni ni-key-25 text-info'
                   }">
         </sidebar-item>
-        <sidebar-item
+        <!-- <sidebar-item
                   :link="{
                     name: 'Register',
                     path: '/register',
                     icon: 'ni ni-circle-08 text-pink'
                   }">
-        </sidebar-item>
+        </sidebar-item> -->
       </template>
 
       <template slot="links-after">
@@ -70,7 +70,7 @@
                href="https://www.creative-tim.com/learning-lab/bootstrap-vue/quick-start/argon-dashboard"
                >
               <i class="ni ni-spaceship"></i>
-              <b-nav-text class="p-0">Getting started</b-nav-text>
+              <b-nav-text class="p-0">Gettings started</b-nav-text>
           </b-nav-item>
           <b-nav-item href="https://www.creative-tim.com/learning-lab/bootstrap-vue/colors/argon-dashboard">
               <i class="ni ni-palette"></i>
