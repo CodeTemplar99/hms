@@ -37,7 +37,7 @@
         </b-col>
       </b-row>
       <div class="text-center">
-        <h5 class="h3">
+        <h5 class="h1">
           Kelechi Pyragle
         </h5>
         <div class="h3 mt-4">Computer Science, Physical Science
