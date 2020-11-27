@@ -9,10 +9,9 @@
         <b-container fluid class="d-flex align-items-center">
           <b-row >
             <b-col lg="7" md="10">
-              <h1 class="display-2 text-white">Hello Jesse</h1>
-              <p class="text-white mt-0 mb-5">This is your profile page. You can see the progress you've made with your
-                work and manage your projects or assigned tasks</p>
-              <a href="#!" class="btn btn-info">Edit profile</a>
+              <h1 class="display-2 text-white">Hello Kelechi</h1>
+              <p class="text-white mt-0 mb-5">This is your profile page. You can see the progress your details and your information here</p>
+              <!-- <a href="#!" class="btn btn-info">Edit profile</a> -->
             </b-col>
           </b-row>
         </b-container>
