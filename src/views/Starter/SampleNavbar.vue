@@ -43,8 +43,6 @@
       </li>
     </b-navbar-nav>
     <b-navbar-nav class="align-items-center ml-auto ml-md-0">
-      <b-nav-item-dropdown right>
-        <b-dropdown-item  class="pr-0" href="#" >
           <b-media no-body class="align-items-center">
                   <span class="avatar avatar-sm">
                     <b-img alt="Image placeholder" rounded="circle" src="img/theme/team-4.jpg" />
@@ -53,8 +51,6 @@
               <span class="mb-0 text-sm  font-weight-bold">kelechi Pyragle</span>
             </b-media-body>
           </b-media>
-        </b-dropdown-item>
-      </b-nav-item-dropdown>
     </b-navbar-nav>
   </base-nav>
 </template>
