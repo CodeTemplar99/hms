@@ -10,10 +10,10 @@
                       icon="ni ni-active-40"
                       class="mb-4">
 
-            <template slot="footer">
+            <!-- <template slot="footer">
               <span class="text-success mr-2">3.48%</span>
               <span class="text-nowrap">Since last month</span>
-            </template>
+            </template> -->
           </stats-card>
         </b-col>
         <b-col xl="3" md="6">
@@ -23,10 +23,10 @@
                       icon="ni ni-chart-pie-35"
                       class="mb-4">
 
-            <template slot="footer">
+            <!-- <template slot="footer">
               <span class="text-success mr-2">12.18%</span>
               <span class="text-nowrap">Since last month</span>
-            </template>
+            </template> -->
           </stats-card>
         </b-col>
         <b-col xl="3" md="6">
@@ -36,10 +36,10 @@
                       icon="ni ni-money-coins"
                       class="mb-4">
 
-            <template slot="footer">
+            <!-- <template slot="footer">
               <span class="text-danger mr-2">5.72%</span>
               <span class="text-nowrap">Since last month</span>
-            </template>
+            </template> -->
           </stats-card>
 
         </b-col>
@@ -50,10 +50,10 @@
                       icon="ni ni-chart-bar-32"
                       class="mb-4">
 
-            <template slot="footer">
+            <!-- <template slot="footer">
               <span class="text-success mr-2">54.8%</span>
               <span class="text-nowrap">Since last month</span>
-            </template>
+            </template> -->
           </stats-card>
         </b-col>
       </b-row>
