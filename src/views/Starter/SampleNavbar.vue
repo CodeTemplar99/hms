@@ -54,32 +54,6 @@
             </b-media-body>
           </b-media>
         </b-dropdown-item>
-        <b-dropdown>
-          <b-dropdown-header class="noti-title">
-            <h6 class="text-overflow m-0">Welcome!</h6>
-          </b-dropdown-header >
-          <b-dropdown-item href="#!">
-            <i class="ni ni-single-02"></i>
-            <span>Student profile</span>
-          </b-dropdown-item>
-          <!-- <b-dropdown-item href="#!">
-            <i class="ni ni-settings-gear-65"></i>
-            <span>Settings</span>
-          </b-dropdown-item> -->
-          <b-dropdown-item href="#!">
-            <i class="ni ni-calendar-grid-58"></i>
-            <span>Activity</span>
-          </b-dropdown-item>
-          <!-- <b-dropdown-item href="#!">
-            <i class="ni ni-support-16"></i>
-            <span>Support</span>
-          </b-dropdown-item> -->
-          <div class="dropdown-divider"></div>
-          <b-dropdown-item href="#!">
-            <i class="ni ni-user-run"></i>
-            <span>Logout</span>
-          </b-dropdown-item>
-        </b-dropdown>
       </b-nav-item-dropdown>
     </b-navbar-nav>
   </base-nav>
