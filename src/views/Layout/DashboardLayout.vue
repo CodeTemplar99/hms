@@ -47,7 +47,7 @@
 
         <sidebar-item
                   :link="{
-                    name: 'Login',
+                    name: 'Log out',
                     path: '/login',
                     icon: 'ni ni-button-power text-info'
                   }">
