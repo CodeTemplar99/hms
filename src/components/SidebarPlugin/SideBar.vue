@@ -39,10 +39,10 @@
                             <i class="ni ni-single-02"></i>
                             <span>Student profile</span>
                         </router-link>
-                        <router-link to="/profile" class="dropdown-item">
+                        <!-- <router-link to="/profile" class="dropdown-item">
                             <i class="ni ni-settings-gear-65"></i>
                             <span>Settings</span>
-                        </router-link>
+                        </router-link> -->
                         <router-link to="/profile" class="dropdown-item">
                             <i class="ni ni-calendar-grid-58"></i>
                             <span>Activity</span>
@@ -88,7 +88,7 @@
                     <li class="nav-item">
                         <a class="nav-link"
                            href="#">
-                            <i class="ni ni-spaceship"></i>Complaints
+                            <i class="ni ni-email-83 text-blue"></i>Complaints
                         </a>
                     </li>
                 </ul>

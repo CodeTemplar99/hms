@@ -24,7 +24,7 @@
     <span class="alert-text">
 
       <span v-if="title" class="title">
-        <b>{{ title }}<br/></b>
+        <b>{{ title }}</b><br/>
       </span>
       <span v-if="message" v-html="message"></span>
       <content-render
@@ -59,7 +59,7 @@
       message: String,
       title: {
         type: String,
-        default:'hello',
+        default:'Notification',
         description: 'Notification title'
       },
       icon: {
@@ -102,7 +102,7 @@
       },
       timeout: {
         type: Number,
-        default: 5000,
+        default: 20000,
         validator: value => {
           return value >= 0;
         },
@@ -194,7 +194,7 @@
     z-index: 10000;
 
     &[data-notify='container'] {
-      max-width: 500px;
+      max-width: 80%;
     }
 
     &.center {
