@@ -28,11 +28,6 @@
           </b-input-group>
         </b-form-group>
       </b-form> -->
-      <base-dropdown menu-on-right
-                     class="nav-item"
-                     tag="li"
-                     title-tag="a"
-                     title-classes="nav-link pr-0">
         <a href="#" class="nav-link pr-0" @click.prevent slot="title-container">
           <b-media no-body class="align-items-center">
                   <span class="avatar avatar-sm rounded-circle">
@@ -43,7 +38,6 @@
             </b-media-body>
           </b-media>
         </a>
-      </base-dropdown>
     </b-navbar-nav>
   </base-nav>
 </template>
