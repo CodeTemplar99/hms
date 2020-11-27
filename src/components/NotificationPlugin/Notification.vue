@@ -106,7 +106,7 @@
         validator: value => {
           return value >= 0;
         },
-        description: 'Notification timeout (closes after X milliseconds). Default is 5000 (5s)'
+        description: 'Notification timeout (closes after X milliseconds). Default is 20000 (2mins)'
       },
       timestamp: {
         type: Date,
