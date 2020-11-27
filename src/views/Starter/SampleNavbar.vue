@@ -50,7 +50,7 @@
                     <b-img alt="Image placeholder" rounded="circle" src="img/theme/team-4.jpg" />
                   </span>
             <b-media-body class="ml-2 d-none d-lg-block">
-              <span class="mb-0 text-sm  font-weight-bold">John Snow</span>
+              <span class="mb-0 text-sm  font-weight-bold">kelechi Pyragle</span>
             </b-media-body>
           </b-media>
         </b-dropdown-item>
@@ -60,20 +60,20 @@
           </b-dropdown-header >
           <b-dropdown-item href="#!">
             <i class="ni ni-single-02"></i>
-            <span>My profile</span>
+            <span>Student profile</span>
           </b-dropdown-item>
-          <b-dropdown-item href="#!">
+          <!-- <b-dropdown-item href="#!">
             <i class="ni ni-settings-gear-65"></i>
             <span>Settings</span>
-          </b-dropdown-item>
+          </b-dropdown-item> -->
           <b-dropdown-item href="#!">
             <i class="ni ni-calendar-grid-58"></i>
             <span>Activity</span>
           </b-dropdown-item>
-          <b-dropdown-item href="#!">
+          <!-- <b-dropdown-item href="#!">
             <i class="ni ni-support-16"></i>
             <span>Support</span>
-          </b-dropdown-item>
+          </b-dropdown-item> -->
           <div class="dropdown-divider"></div>
           <b-dropdown-item href="#!">
             <i class="ni ni-user-run"></i>

@@ -37,7 +37,7 @@
                         </div>
                         <router-link to="/profile" class="dropdown-item">
                             <i class="ni ni-single-02"></i>
-                            <span>My profile</span>
+                            <span>Student profile</span>
                         </router-link>
                         <router-link to="/profile" class="dropdown-item">
                             <i class="ni ni-settings-gear-65"></i>
@@ -47,10 +47,10 @@
                             <i class="ni ni-calendar-grid-58"></i>
                             <span>Activity</span>
                         </router-link>
-                        <router-link to="/profile" class="dropdown-item">
+                        <!-- <router-link to="/profile" class="dropdown-item">
                             <i class="ni ni-support-16"></i>
                             <span>Support</span>
-                        </router-link>
+                        </router-link> -->
                         <div class="dropdown-divider"></div>
                         <a href="#!" class="dropdown-item">
                             <i class="ni ni-user-run"></i>
@@ -87,7 +87,7 @@
                 <ul class="navbar-nav mb-md-3">
                     <li class="nav-item">
                         <a class="nav-link"
-                           href="https://www.creative-tim.com/learning-lab/bootstrap-vue/alerts/argon-dashboard">
+                           href="#">
                             <i class="ni ni-spaceship"></i>Complaints
                         </a>
                     </li>

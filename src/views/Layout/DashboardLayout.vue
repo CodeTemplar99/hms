@@ -16,7 +16,7 @@
             :link="{
               name: 'Accomodation',
               path: '/icons',
-              icon: 'ni ni-planet text-blue'
+              icon: 'ni ni-building text-info'
               }"
             >
         </sidebar-item>
@@ -31,17 +31,17 @@
 
         <sidebar-item
               :link="{
-                name: 'User Profile',
+                name: 'Student Profile',
                 path: '/profile',
-                icon: 'ni ni-single-02 text-yellow'
+                icon: 'ni ni-single-02 text-success'
                 }">
         </sidebar-item>
 
         <sidebar-item
                 :link="{
-                  name: 'Tables',
+                  name: 'Activity',
                   path: '/tables',
-                  icon: 'ni ni-bullet-list-67 text-red'
+                  icon: 'ni ni-bullet-list-67 text-warning'
                 }">
         </sidebar-item>
 
@@ -49,7 +49,7 @@
                   :link="{
                     name: 'Login',
                     path: '/login',
-                    icon: 'ni ni-key-25 text-info'
+                    icon: 'ni ni-button-power text-info'
                   }">
         </sidebar-item>
         <!-- <sidebar-item
