@@ -2,7 +2,7 @@
   <div class="wrapper">
     <notifications></notifications>
     <side-bar>
-      <template slot-scope="props" slot="links">
+      <!-- <template slot-scope="props" slot="links">
         <sidebar-item
           :link="{
             name: 'Dashboards',
@@ -11,7 +11,7 @@
         >
           <sidebar-item :link="{ name: 'Dashboard', path: '/dashboard' }"></sidebar-item>
         </sidebar-item>
-      </template>
+      </template> -->
     </side-bar>
     <div class="main-content">
       <dashboard-navbar></dashboard-navbar>

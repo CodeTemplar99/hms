@@ -5,42 +5,42 @@
       <!-- Card stats -->
       <b-row>
         <b-col xl="3" md="6">
-          <stats-card title="Total traffic"
+          <stats-card title="Total Space"
                       type="gradient-red"
                       sub-title="350,897"
                       icon="ni ni-active-40"
                       class="mb-4">
 
-            <template slot="footer">
+            <!-- <template slot="footer">
               <span class="text-success mr-2">3.48%</span>
               <span class="text-nowrap">Since last month</span>
-            </template>
+            </template> -->
           </stats-card>
         </b-col>
         <b-col xl="3" md="6">
-          <stats-card title="Total traffic"
+          <stats-card title="Available"
                       type="gradient-orange"
                       sub-title="2,356"
                       icon="ni ni-chart-pie-35"
                       class="mb-4">
 
-            <template slot="footer">
+            <!-- <template slot="footer">
               <span class="text-success mr-2">12.18%</span>
               <span class="text-nowrap">Since last month</span>
-            </template>
+            </template> -->
           </stats-card>
         </b-col>
         <b-col xl="3" md="6">
-          <stats-card title="Sales"
+          <stats-card title="Allocated"
                       type="gradient-green"
                       sub-title="924"
                       icon="ni ni-money-coins"
                       class="mb-4">
 
-            <template slot="footer">
+            <!-- <template slot="footer">
               <span class="text-danger mr-2">5.72%</span>
               <span class="text-nowrap">Since last month</span>
-            </template>
+            </template> -->
           </stats-card>
 
         </b-col>
@@ -63,12 +63,12 @@
     <!--Charts-->
     <b-container fluid class="mt--7">
       <b-row>
-        <b-col xl="8" class="mb-5 mb-xl-0">
+        <b-col xl="12" class="mb-5 mb-xl-0">
           <card type="default" header-classes="bg-transparent">
             <b-row align-v="center" slot="header">
               <b-col>
                 <h6 class="text-light text-uppercase ls-1 mb-1">Overview</h6>
-                <h5 class="h3 text-white mb-0">Sales value</h5>
+                <h5 class="h3 text-white mb-0">Allocation value</h5>
               </b-col>
               <b-col>
                 <b-nav class="nav-pills justify-content-end">
@@ -101,7 +101,7 @@
           </card>
         </b-col>
 
-        <b-col xl="4" class="mb-5 mb-xl-0">
+        <!-- <b-col xl="4" class="mb-5 mb-xl-0">
           <card header-classes="bg-transparent">
             <b-row align-v="center" slot="header">
               <b-col>
@@ -117,7 +117,7 @@
             >
             </bar-chart>
           </card>
-        </b-col>
+        </b-col> -->
       </b-row>
       <!-- End charts-->
 

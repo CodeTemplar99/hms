@@ -59,6 +59,7 @@
       message: String,
       title: {
         type: String,
+        default:'hello',
         description: 'Notification title'
       },
       icon: {

@@ -14,7 +14,7 @@
         </b-col>
       </b-row>
       <!-- Card stats -->
-      <b-row >
+      <!-- <b-row >
         <b-col xl="3" md="6" >
           <stats-card title="Total traffic"
                       type="gradient-red"
@@ -64,7 +64,7 @@
             </template>
           </stats-card>
         </b-col>
-      </b-row>
+      </b-row> -->
     </base-header>
     <b-container fluid class="mt--6">
       <b-row class="starter-page">
