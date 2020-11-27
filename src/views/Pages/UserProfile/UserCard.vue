@@ -40,11 +40,9 @@
         <h5 class="h3">
           Kelechi Pyragle
         </h5>
-        <div class="h4 font-weight-300">
-          <i class="ni location_pin mr-2"></i>Computer Science
+        <div class="h4 font-weight-300">Computer Science
         </div>
-        <div class="h3 mt-4">
-          <i class="ni business_briefcase-24 mr-2"></i>Physical Science
+        <div class="h3 mt-4">Physical Science
         </div>
         <div>
           <i class="ni education_hat mr-2"></i>University of Computer Science
