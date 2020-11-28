@@ -337,8 +337,8 @@
                         title=""
                         data-original-title=" You have successfully reserved a bedspace in this room, check your activity for more details. Note: This is not your bedspace yet, it has been reserved pending payment and will be forfeited after a 24 hours of non payment">
                   <div>
-                    <i class="ni ni-bullet-list-67"></i>
-                    <span>bullet-list-67</span>
+                    <i class="ni ni-building"></i>
+                    <span>Room 101</span>
                   </div>
                 </button>
               </b-col>
@@ -348,8 +348,8 @@
                         title=""
                         data-original-title=" You have successfully reserved a bedspace in this room, check your activity for more details. Note: This is not your bedspace yet, it has been reserved pending payment and will be forfeited after a 24 hours of non payment">
                   <div>
-                    <i class="ni ni-bus-front-12"></i>
-                    <span>bus-front-12</span>
+                    <i class="ni ni-building"></i>
+                    <span>Room 101</span>
                   </div>
                 </button>
               </b-col>
@@ -359,8 +359,8 @@
                         title=""
                         data-original-title=" You have successfully reserved a bedspace in this room, check your activity for more details. Note: This is not your bedspace yet, it has been reserved pending payment and will be forfeited after a 24 hours of non payment">
                   <div>
-                    <i class="ni ni-button-pause"></i>
-                    <span>button-pause</span>
+                    <i class="ni ni-building"></i>
+                    <span>Room 101</span>
                   </div>
                 </button>
               </b-col>
@@ -370,8 +370,8 @@
                         title=""
                         data-original-title=" You have successfully reserved a bedspace in this room, check your activity for more details. Note: This is not your bedspace yet, it has been reserved pending payment and will be forfeited after a 24 hours of non payment">
                   <div>
-                    <i class="ni ni-button-play"></i>
-                    <span>button-play</span>
+                    <i class="ni ni-building"></i>
+                    <span>Room 101</span>
                   </div>
                 </button>
               </b-col>
@@ -381,8 +381,8 @@
                         title=""
                         data-original-title=" You have successfully reserved a bedspace in this room, check your activity for more details. Note: This is not your bedspace yet, it has been reserved pending payment and will be forfeited after a 24 hours of non payment">
                   <div>
-                    <i class="ni ni-button-power"></i>
-                    <span>button-power</span>
+                    <i class="ni ni-building"></i>
+                    <span>Room 101</span>
                   </div>
                 </button>
               </b-col>
@@ -392,8 +392,8 @@
                         title=""
                         data-original-title=" You have successfully reserved a bedspace in this room, check your activity for more details. Note: This is not your bedspace yet, it has been reserved pending payment and will be forfeited after a 24 hours of non payment">
                   <div>
-                    <i class="ni ni-calendar-grid-58"></i>
-                    <span>calendar-grid-58</span>
+                    <i class="ni ni-building"></i>
+                    <span>Room 101</span>
                   </div>
                 </button>
               </b-col>
@@ -403,8 +403,8 @@
                         title=""
                         data-original-title=" You have successfully reserved a bedspace in this room, check your activity for more details. Note: This is not your bedspace yet, it has been reserved pending payment and will be forfeited after a 24 hours of non payment">
                   <div>
-                    <i class="ni ni-camera-compact"></i>
-                    <span>camera-compact</span>
+                    <i class="ni ni-building"></i>
+                    <span>Room 101</span>
                   </div>
                 </button>
               </b-col>
@@ -414,8 +414,8 @@
                         title=""
                         data-original-title=" You have successfully reserved a bedspace in this room, check your activity for more details. Note: This is not your bedspace yet, it has been reserved pending payment and will be forfeited after a 24 hours of non payment">
                   <div>
-                    <i class="ni ni-caps-small"></i>
-                    <span>caps-small</span>
+                    <i class="ni ni-building"></i>
+                    <span>Room 101</span>
                   </div>
                 </button>
               </b-col>
@@ -425,8 +425,8 @@
                         title=""
                         data-original-title=" You have successfully reserved a bedspace in this room, check your activity for more details. Note: This is not your bedspace yet, it has been reserved pending payment and will be forfeited after a 24 hours of non payment">
                   <div>
-                    <i class="ni ni-cart"></i>
-                    <span>cart</span>
+                    <i class="ni ni-building"></i>
+                    <span>Room 101</span>
                   </div>
                 </button>
               </b-col>
@@ -436,8 +436,8 @@
                         title=""
                         data-original-title=" You have successfully reserved a bedspace in this room, check your activity for more details. Note: This is not your bedspace yet, it has been reserved pending payment and will be forfeited after a 24 hours of non payment">
                   <div>
-                    <i class="ni ni-chart-bar-32"></i>
-                    <span>chart-bar-32</span>
+                    <i class="ni ni-building"></i>
+                    <span>Room 101</span>
                   </div>
                 </button>
               </b-col>
@@ -447,8 +447,8 @@
                         title=""
                         data-original-title=" You have successfully reserved a bedspace in this room, check your activity for more details. Note: This is not your bedspace yet, it has been reserved pending payment and will be forfeited after a 24 hours of non payment">
                   <div>
-                    <i class="ni ni-chart-pie-35"></i>
-                    <span>chart-pie-35</span>
+                    <i class="ni ni-building"></i>
+                    <span>Room 101</span>
                   </div>
                 </button>
               </b-col>
@@ -458,8 +458,8 @@
                         title=""
                         data-original-title=" You have successfully reserved a bedspace in this room, check your activity for more details. Note: This is not your bedspace yet, it has been reserved pending payment and will be forfeited after a 24 hours of non payment">
                   <div>
-                    <i class="ni ni-chat-round"></i>
-                    <span>chat-round</span>
+                    <i class="ni ni-building"></i>
+                    <span>Room 101</span>
                   </div>
                 </button>
               </b-col>
@@ -469,8 +469,8 @@
                         title=""
                         data-original-title=" You have successfully reserved a bedspace in this room, check your activity for more details. Note: This is not your bedspace yet, it has been reserved pending payment and will be forfeited after a 24 hours of non payment">
                   <div>
-                    <i class="ni ni-check-bold"></i>
-                    <span>check-bold</span>
+                    <i class="ni ni-building"></i>
+                    <span>Room 101</span>
                   </div>
                 </button>
               </b-col>
