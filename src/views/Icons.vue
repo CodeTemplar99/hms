@@ -716,469 +716,691 @@
                   </div>
                 </button>
               </b-col>
-              <b-col lg="3" md="6">
-                <button type="button" class="btn-icon-clipboard" v-clipboard:copy="'ni ni-laptop'"
+             <b-col lg="3" md="6">
+                <button type="button" class="btn-icon-clipboard" v-clipboard:copy="'ni ni-key-25'"
                         v-clipboard:success="onCopy"
                         title=""
                         data-original-title=" You have successfully reserved a bedspace in this room, check your activity for more details. Note: This is not your bedspace yet, it has been reserved pending payment and will be forfeited after a 24 hours of non payment">
                   <div>
-                    <i class="ni ni-laptop"></i>
-                    <span>laptop</span>
+                    <i class="ni ni-building"></i>
+                    <span>Room 101</span>
                   </div>
                 </button>
               </b-col>
-              <b-col lg="3" md="6">
-                <button type="button" class="btn-icon-clipboard" v-clipboard:copy="'ni ni-like-2'"
+               <b-col lg="3" md="6">
+                <button type="button" class="btn-icon-clipboard" v-clipboard:copy="'ni ni-key-25'"
                         v-clipboard:success="onCopy"
                         title=""
                         data-original-title=" You have successfully reserved a bedspace in this room, check your activity for more details. Note: This is not your bedspace yet, it has been reserved pending payment and will be forfeited after a 24 hours of non payment">
                   <div>
-                    <i class="ni ni-like-2"></i>
-                    <span>like-2</span>
+                    <i class="ni ni-building"></i>
+                    <span>Room 101</span>
                   </div>
                 </button>
               </b-col>
-              <b-col lg="3" md="6">
-                <button type="button" class="btn-icon-clipboard" v-clipboard:copy="'ni ni-lock-circle-open'"
+               <b-col lg="3" md="6">
+                <button type="button" class="btn-icon-clipboard" v-clipboard:copy="'ni ni-key-25'"
                         v-clipboard:success="onCopy"
                         title=""
                         data-original-title=" You have successfully reserved a bedspace in this room, check your activity for more details. Note: This is not your bedspace yet, it has been reserved pending payment and will be forfeited after a 24 hours of non payment">
                   <div>
-                    <i class="ni ni-lock-circle-open"></i>
-                    <span>lock-circle-open</span>
+                    <i class="ni ni-building"></i>
+                    <span>Room 101</span>
                   </div>
                 </button>
               </b-col>
-              <b-col lg="3" md="6">
-                <button type="button" class="btn-icon-clipboard" v-clipboard:copy="'ni ni-map-big'"
+               <b-col lg="3" md="6">
+                <button type="button" class="btn-icon-clipboard" v-clipboard:copy="'ni ni-key-25'"
                         v-clipboard:success="onCopy"
                         title=""
                         data-original-title=" You have successfully reserved a bedspace in this room, check your activity for more details. Note: This is not your bedspace yet, it has been reserved pending payment and will be forfeited after a 24 hours of non payment">
                   <div>
-                    <i class="ni ni-map-big"></i>
-                    <span>map-big</span>
+                    <i class="ni ni-building"></i>
+                    <span>Room 101</span>
                   </div>
                 </button>
               </b-col>
-              <b-col lg="3" md="6">
-                <button type="button" class="btn-icon-clipboard" v-clipboard:copy="'ni ni-mobile-button'"
+               <b-col lg="3" md="6">
+                <button type="button" class="btn-icon-clipboard" v-clipboard:copy="'ni ni-key-25'"
                         v-clipboard:success="onCopy"
                         title=""
                         data-original-title=" You have successfully reserved a bedspace in this room, check your activity for more details. Note: This is not your bedspace yet, it has been reserved pending payment and will be forfeited after a 24 hours of non payment">
                   <div>
-                    <i class="ni ni-mobile-button"></i>
-                    <span>mobile-button</span>
+                    <i class="ni ni-building"></i>
+                    <span>Room 101</span>
                   </div>
                 </button>
               </b-col>
-              <b-col lg="3" md="6">
-                <button type="button" class="btn-icon-clipboard" v-clipboard:copy="'ni ni-money-coins'"
+               <b-col lg="3" md="6">
+                <button type="button" class="btn-icon-clipboard" v-clipboard:copy="'ni ni-key-25'"
                         v-clipboard:success="onCopy"
                         title=""
                         data-original-title=" You have successfully reserved a bedspace in this room, check your activity for more details. Note: This is not your bedspace yet, it has been reserved pending payment and will be forfeited after a 24 hours of non payment">
                   <div>
-                    <i class="ni ni-money-coins"></i>
-                    <span>money-coins</span>
+                    <i class="ni ni-building"></i>
+                    <span>Room 101</span>
                   </div>
                 </button>
               </b-col>
-              <b-col lg="3" md="6">
-                <button type="button" class="btn-icon-clipboard" v-clipboard:copy="'ni ni-note-03'"
+               <b-col lg="3" md="6">
+                <button type="button" class="btn-icon-clipboard" v-clipboard:copy="'ni ni-key-25'"
                         v-clipboard:success="onCopy"
                         title=""
                         data-original-title=" You have successfully reserved a bedspace in this room, check your activity for more details. Note: This is not your bedspace yet, it has been reserved pending payment and will be forfeited after a 24 hours of non payment">
                   <div>
-                    <i class="ni ni-note-03"></i>
-                    <span>note-03</span>
+                    <i class="ni ni-building"></i>
+                    <span>Room 101</span>
                   </div>
                 </button>
               </b-col>
-              <b-col lg="3" md="6">
-                <button type="button" class="btn-icon-clipboard" v-clipboard:copy="'ni ni-notification-70'"
+               <b-col lg="3" md="6">
+                <button type="button" class="btn-icon-clipboard" v-clipboard:copy="'ni ni-key-25'"
                         v-clipboard:success="onCopy"
                         title=""
                         data-original-title=" You have successfully reserved a bedspace in this room, check your activity for more details. Note: This is not your bedspace yet, it has been reserved pending payment and will be forfeited after a 24 hours of non payment">
                   <div>
-                    <i class="ni ni-notification-70"></i>
-                    <span>notification-70</span>
+                    <i class="ni ni-building"></i>
+                    <span>Room 101</span>
                   </div>
                 </button>
               </b-col>
-              <b-col lg="3" md="6">
-                <button type="button" class="btn-icon-clipboard" v-clipboard:copy="'ni ni-palette'"
+               <b-col lg="3" md="6">
+                <button type="button" class="btn-icon-clipboard" v-clipboard:copy="'ni ni-key-25'"
                         v-clipboard:success="onCopy"
                         title=""
                         data-original-title=" You have successfully reserved a bedspace in this room, check your activity for more details. Note: This is not your bedspace yet, it has been reserved pending payment and will be forfeited after a 24 hours of non payment">
                   <div>
-                    <i class="ni ni-palette"></i>
-                    <span>palette</span>
+                    <i class="ni ni-building"></i>
+                    <span>Room 101</span>
                   </div>
                 </button>
               </b-col>
-              <b-col lg="3" md="6">
-                <button type="button" class="btn-icon-clipboard" v-clipboard:copy="'ni ni-paper-diploma'"
+               <b-col lg="3" md="6">
+                <button type="button" class="btn-icon-clipboard" v-clipboard:copy="'ni ni-key-25'"
                         v-clipboard:success="onCopy"
                         title=""
                         data-original-title=" You have successfully reserved a bedspace in this room, check your activity for more details. Note: This is not your bedspace yet, it has been reserved pending payment and will be forfeited after a 24 hours of non payment">
                   <div>
-                    <i class="ni ni-paper-diploma"></i>
-                    <span>paper-diploma</span>
+                    <i class="ni ni-building"></i>
+                    <span>Room 101</span>
                   </div>
                 </button>
               </b-col>
-              <b-col lg="3" md="6">
-                <button type="button" class="btn-icon-clipboard" v-clipboard:copy="'ni ni-pin-3'"
+               <b-col lg="3" md="6">
+                <button type="button" class="btn-icon-clipboard" v-clipboard:copy="'ni ni-key-25'"
                         v-clipboard:success="onCopy"
                         title=""
                         data-original-title=" You have successfully reserved a bedspace in this room, check your activity for more details. Note: This is not your bedspace yet, it has been reserved pending payment and will be forfeited after a 24 hours of non payment">
                   <div>
-                    <i class="ni ni-pin-3"></i>
-                    <span>pin-3</span>
+                    <i class="ni ni-building"></i>
+                    <span>Room 101</span>
                   </div>
                 </button>
               </b-col>
-              <b-col lg="3" md="6">
-                <button type="button" class="btn-icon-clipboard" v-clipboard:copy="'ni ni-planet'"
+               <b-col lg="3" md="6">
+                <button type="button" class="btn-icon-clipboard" v-clipboard:copy="'ni ni-key-25'"
                         v-clipboard:success="onCopy"
                         title=""
                         data-original-title=" You have successfully reserved a bedspace in this room, check your activity for more details. Note: This is not your bedspace yet, it has been reserved pending payment and will be forfeited after a 24 hours of non payment">
                   <div>
-                    <i class="ni ni-planet"></i>
-                    <span>planet</span>
+                    <i class="ni ni-building"></i>
+                    <span>Room 101</span>
                   </div>
                 </button>
               </b-col>
-              <b-col lg="3" md="6">
-                <button type="button" class="btn-icon-clipboard" v-clipboard:copy="'ni ni-ruler-pencil'"
+               <b-col lg="3" md="6">
+                <button type="button" class="btn-icon-clipboard" v-clipboard:copy="'ni ni-key-25'"
                         v-clipboard:success="onCopy"
                         title=""
                         data-original-title=" You have successfully reserved a bedspace in this room, check your activity for more details. Note: This is not your bedspace yet, it has been reserved pending payment and will be forfeited after a 24 hours of non payment">
                   <div>
-                    <i class="ni ni-ruler-pencil"></i>
-                    <span>ruler-pencil</span>
+                    <i class="ni ni-building"></i>
+                    <span>Room 101</span>
                   </div>
                 </button>
               </b-col>
-              <b-col lg="3" md="6">
-                <button type="button" class="btn-icon-clipboard" v-clipboard:copy="'ni ni-satisfied'"
+               <b-col lg="3" md="6">
+                <button type="button" class="btn-icon-clipboard" v-clipboard:copy="'ni ni-key-25'"
                         v-clipboard:success="onCopy"
                         title=""
                         data-original-title=" You have successfully reserved a bedspace in this room, check your activity for more details. Note: This is not your bedspace yet, it has been reserved pending payment and will be forfeited after a 24 hours of non payment">
                   <div>
-                    <i class="ni ni-satisfied"></i>
-                    <span>satisfied</span>
+                    <i class="ni ni-building"></i>
+                    <span>Room 101</span>
                   </div>
                 </button>
               </b-col>
-              <b-col lg="3" md="6">
-                <button type="button" class="btn-icon-clipboard" v-clipboard:copy="'ni ni-scissors'"
+               <b-col lg="3" md="6">
+                <button type="button" class="btn-icon-clipboard" v-clipboard:copy="'ni ni-key-25'"
                         v-clipboard:success="onCopy"
                         title=""
                         data-original-title=" You have successfully reserved a bedspace in this room, check your activity for more details. Note: This is not your bedspace yet, it has been reserved pending payment and will be forfeited after a 24 hours of non payment">
                   <div>
-                    <i class="ni ni-scissors"></i>
-                    <span>scissors</span>
+                    <i class="ni ni-building"></i>
+                    <span>Room 101</span>
                   </div>
                 </button>
-              </b-col>
-              <b-col lg="3" md="6">
-                <button type="button" class="btn-icon-clipboard" v-clipboard:copy="'ni ni-send'"
+              </b-col> <b-col lg="3" md="6">
+                <button type="button" class="btn-icon-clipboard" v-clipboard:copy="'ni ni-key-25'"
                         v-clipboard:success="onCopy"
                         title=""
                         data-original-title=" You have successfully reserved a bedspace in this room, check your activity for more details. Note: This is not your bedspace yet, it has been reserved pending payment and will be forfeited after a 24 hours of non payment">
                   <div>
-                    <i class="ni ni-send"></i>
-                    <span>send</span>
+                    <i class="ni ni-building"></i>
+                    <span>Room 101</span>
                   </div>
                 </button>
-              </b-col>
-              <b-col lg="3" md="6">
-                <button type="button" class="btn-icon-clipboard" v-clipboard:copy="'ni ni-settings-gear-65'"
+              </b-col> <b-col lg="3" md="6">
+                <button type="button" class="btn-icon-clipboard" v-clipboard:copy="'ni ni-key-25'"
                         v-clipboard:success="onCopy"
                         title=""
                         data-original-title=" You have successfully reserved a bedspace in this room, check your activity for more details. Note: This is not your bedspace yet, it has been reserved pending payment and will be forfeited after a 24 hours of non payment">
                   <div>
-                    <i class="ni ni-settings-gear-65"></i>
-                    <span>settings-gear-65</span>
+                    <i class="ni ni-building"></i>
+                    <span>Room 101</span>
                   </div>
                 </button>
-              </b-col>
-              <b-col lg="3" md="6">
-                <button type="button" class="btn-icon-clipboard" v-clipboard:copy="'ni ni-settings'"
+              </b-col> <b-col lg="3" md="6">
+                <button type="button" class="btn-icon-clipboard" v-clipboard:copy="'ni ni-key-25'"
                         v-clipboard:success="onCopy"
                         title=""
                         data-original-title=" You have successfully reserved a bedspace in this room, check your activity for more details. Note: This is not your bedspace yet, it has been reserved pending payment and will be forfeited after a 24 hours of non payment">
                   <div>
-                    <i class="ni ni-settings"></i>
-                    <span>settings</span>
+                    <i class="ni ni-building"></i>
+                    <span>Room 101</span>
                   </div>
                 </button>
-              </b-col>
-              <b-col lg="3" md="6">
-                <button type="button" class="btn-icon-clipboard" v-clipboard:copy="'ni ni-single-02'"
+              </b-col> <b-col lg="3" md="6">
+                <button type="button" class="btn-icon-clipboard" v-clipboard:copy="'ni ni-key-25'"
                         v-clipboard:success="onCopy"
                         title=""
                         data-original-title=" You have successfully reserved a bedspace in this room, check your activity for more details. Note: This is not your bedspace yet, it has been reserved pending payment and will be forfeited after a 24 hours of non payment">
                   <div>
-                    <i class="ni ni-single-02"></i>
-                    <span>single-02</span>
+                    <i class="ni ni-building"></i>
+                    <span>Room 101</span>
                   </div>
                 </button>
-              </b-col>
-              <b-col lg="3" md="6">
-                <button type="button" class="btn-icon-clipboard" v-clipboard:copy="'ni ni-single-copy-04'"
+              </b-col> <b-col lg="3" md="6">
+                <button type="button" class="btn-icon-clipboard" v-clipboard:copy="'ni ni-key-25'"
                         v-clipboard:success="onCopy"
                         title=""
                         data-original-title=" You have successfully reserved a bedspace in this room, check your activity for more details. Note: This is not your bedspace yet, it has been reserved pending payment and will be forfeited after a 24 hours of non payment">
                   <div>
-                    <i class="ni ni-single-copy-04"></i>
-                    <span>single-copy-04</span>
+                    <i class="ni ni-building"></i>
+                    <span>Room 101</span>
                   </div>
                 </button>
-              </b-col>
-              <b-col lg="3" md="6">
-                <button type="button" class="btn-icon-clipboard" v-clipboard:copy="'ni ni-sound-wave'"
+              </b-col> <b-col lg="3" md="6">
+                <button type="button" class="btn-icon-clipboard" v-clipboard:copy="'ni ni-key-25'"
                         v-clipboard:success="onCopy"
                         title=""
                         data-original-title=" You have successfully reserved a bedspace in this room, check your activity for more details. Note: This is not your bedspace yet, it has been reserved pending payment and will be forfeited after a 24 hours of non payment">
                   <div>
-                    <i class="ni ni-sound-wave"></i>
-                    <span>sound-wave</span>
+                    <i class="ni ni-building"></i>
+                    <span>Room 101</span>
                   </div>
                 </button>
-              </b-col>
-              <b-col lg="3" md="6">
-                <button type="button" class="btn-icon-clipboard" v-clipboard:copy="'ni ni-spaceship'"
+              </b-col> <b-col lg="3" md="6">
+                <button type="button" class="btn-icon-clipboard" v-clipboard:copy="'ni ni-key-25'"
                         v-clipboard:success="onCopy"
                         title=""
                         data-original-title=" You have successfully reserved a bedspace in this room, check your activity for more details. Note: This is not your bedspace yet, it has been reserved pending payment and will be forfeited after a 24 hours of non payment">
                   <div>
-                    <i class="ni ni-spaceship"></i>
-                    <span>spaceship</span>
+                    <i class="ni ni-building"></i>
+                    <span>Room 101</span>
                   </div>
                 </button>
-              </b-col>
-              <b-col lg="3" md="6">
-                <button type="button" class="btn-icon-clipboard" v-clipboard:copy="'ni ni-square-pin'"
+              </b-col> <b-col lg="3" md="6">
+                <button type="button" class="btn-icon-clipboard" v-clipboard:copy="'ni ni-key-25'"
                         v-clipboard:success="onCopy"
                         title=""
                         data-original-title=" You have successfully reserved a bedspace in this room, check your activity for more details. Note: This is not your bedspace yet, it has been reserved pending payment and will be forfeited after a 24 hours of non payment">
                   <div>
-                    <i class="ni ni-square-pin"></i>
-                    <span>square-pin</span>
+                    <i class="ni ni-building"></i>
+                    <span>Room 101</span>
                   </div>
                 </button>
-              </b-col>
-              <b-col lg="3" md="6">
-                <button type="button" class="btn-icon-clipboard" v-clipboard:copy="'ni ni-support-16'"
+              </b-col> <b-col lg="3" md="6">
+                <button type="button" class="btn-icon-clipboard" v-clipboard:copy="'ni ni-key-25'"
                         v-clipboard:success="onCopy"
                         title=""
                         data-original-title=" You have successfully reserved a bedspace in this room, check your activity for more details. Note: This is not your bedspace yet, it has been reserved pending payment and will be forfeited after a 24 hours of non payment">
                   <div>
-                    <i class="ni ni-support-16"></i>
-                    <span>support-16</span>
+                    <i class="ni ni-building"></i>
+                    <span>Room 101</span>
                   </div>
                 </button>
-              </b-col>
-              <b-col lg="3" md="6">
-                <button type="button" class="btn-icon-clipboard" v-clipboard:copy="'ni ni-tablet-button'"
+              </b-col> <b-col lg="3" md="6">
+                <button type="button" class="btn-icon-clipboard" v-clipboard:copy="'ni ni-key-25'"
                         v-clipboard:success="onCopy"
                         title=""
                         data-original-title=" You have successfully reserved a bedspace in this room, check your activity for more details. Note: This is not your bedspace yet, it has been reserved pending payment and will be forfeited after a 24 hours of non payment">
                   <div>
-                    <i class="ni ni-tablet-button"></i>
-                    <span>tablet-button</span>
+                    <i class="ni ni-building"></i>
+                    <span>Room 101</span>
                   </div>
                 </button>
-              </b-col>
-              <b-col lg="3" md="6">
-                <button type="button" class="btn-icon-clipboard" v-clipboard:copy="'ni ni-tag'"
+              </b-col> <b-col lg="3" md="6">
+                <button type="button" class="btn-icon-clipboard" v-clipboard:copy="'ni ni-key-25'"
                         v-clipboard:success="onCopy"
                         title=""
                         data-original-title=" You have successfully reserved a bedspace in this room, check your activity for more details. Note: This is not your bedspace yet, it has been reserved pending payment and will be forfeited after a 24 hours of non payment">
                   <div>
-                    <i class="ni ni-tag"></i>
-                    <span>tag</span>
+                    <i class="ni ni-building"></i>
+                    <span>Room 101</span>
                   </div>
                 </button>
-              </b-col>
-              <b-col lg="3" md="6">
-                <button type="button" class="btn-icon-clipboard" v-clipboard:copy="'ni ni-tie-bow'"
+              </b-col> <b-col lg="3" md="6">
+                <button type="button" class="btn-icon-clipboard" v-clipboard:copy="'ni ni-key-25'"
                         v-clipboard:success="onCopy"
                         title=""
                         data-original-title=" You have successfully reserved a bedspace in this room, check your activity for more details. Note: This is not your bedspace yet, it has been reserved pending payment and will be forfeited after a 24 hours of non payment">
                   <div>
-                    <i class="ni ni-tie-bow"></i>
-                    <span>tie-bow</span>
+                    <i class="ni ni-building"></i>
+                    <span>Room 101</span>
                   </div>
                 </button>
-              </b-col>
-              <b-col lg="3" md="6">
-                <button type="button" class="btn-icon-clipboard" v-clipboard:copy="'ni ni-time-alarm'"
+              </b-col> <b-col lg="3" md="6">
+                <button type="button" class="btn-icon-clipboard" v-clipboard:copy="'ni ni-key-25'"
                         v-clipboard:success="onCopy"
                         title=""
                         data-original-title=" You have successfully reserved a bedspace in this room, check your activity for more details. Note: This is not your bedspace yet, it has been reserved pending payment and will be forfeited after a 24 hours of non payment">
                   <div>
-                    <i class="ni ni-time-alarm"></i>
-                    <span>time-alarm</span>
+                    <i class="ni ni-building"></i>
+                    <span>Room 101</span>
                   </div>
                 </button>
-              </b-col>
-              <b-col lg="3" md="6">
-                <button type="button" class="btn-icon-clipboard" v-clipboard:copy="'ni ni-trophy'"
+              </b-col> <b-col lg="3" md="6">
+                <button type="button" class="btn-icon-clipboard" v-clipboard:copy="'ni ni-key-25'"
                         v-clipboard:success="onCopy"
                         title=""
                         data-original-title=" You have successfully reserved a bedspace in this room, check your activity for more details. Note: This is not your bedspace yet, it has been reserved pending payment and will be forfeited after a 24 hours of non payment">
                   <div>
-                    <i class="ni ni-trophy"></i>
-                    <span>trophy</span>
+                    <i class="ni ni-building"></i>
+                    <span>Room 101</span>
                   </div>
                 </button>
-              </b-col>
-              <b-col lg="3" md="6">
-                <button type="button" class="btn-icon-clipboard" v-clipboard:copy="'ni ni-tv-2'"
+              </b-col> <b-col lg="3" md="6">
+                <button type="button" class="btn-icon-clipboard" v-clipboard:copy="'ni ni-key-25'"
                         v-clipboard:success="onCopy"
                         title=""
                         data-original-title=" You have successfully reserved a bedspace in this room, check your activity for more details. Note: This is not your bedspace yet, it has been reserved pending payment and will be forfeited after a 24 hours of non payment">
                   <div>
-                    <i class="ni ni-tv-2"></i>
-                    <span>tv-2</span>
+                    <i class="ni ni-building"></i>
+                    <span>Room 101</span>
                   </div>
                 </button>
-              </b-col>
-              <b-col lg="3" md="6">
-                <button type="button" class="btn-icon-clipboard" v-clipboard:copy="'ni ni-umbrella-13'"
+              </b-col> <b-col lg="3" md="6">
+                <button type="button" class="btn-icon-clipboard" v-clipboard:copy="'ni ni-key-25'"
                         v-clipboard:success="onCopy"
                         title=""
                         data-original-title=" You have successfully reserved a bedspace in this room, check your activity for more details. Note: This is not your bedspace yet, it has been reserved pending payment and will be forfeited after a 24 hours of non payment">
                   <div>
-                    <i class="ni ni-umbrella-13"></i>
-                    <span>umbrella-13</span>
+                    <i class="ni ni-building"></i>
+                    <span>Room 101</span>
                   </div>
                 </button>
-              </b-col>
-              <b-col lg="3" md="6">
-                <button type="button" class="btn-icon-clipboard" v-clipboard:copy="'ni ni-user-run'"
+              </b-col> <b-col lg="3" md="6">
+                <button type="button" class="btn-icon-clipboard" v-clipboard:copy="'ni ni-key-25'"
                         v-clipboard:success="onCopy"
                         title=""
                         data-original-title=" You have successfully reserved a bedspace in this room, check your activity for more details. Note: This is not your bedspace yet, it has been reserved pending payment and will be forfeited after a 24 hours of non payment">
                   <div>
-                    <i class="ni ni-user-run"></i>
-                    <span>user-run</span>
+                    <i class="ni ni-building"></i>
+                    <span>Room 101</span>
                   </div>
                 </button>
-              </b-col>
-              <b-col lg="3" md="6">
-                <button type="button" class="btn-icon-clipboard" v-clipboard:copy="'ni ni-vector'"
+              </b-col> <b-col lg="3" md="6">
+                <button type="button" class="btn-icon-clipboard" v-clipboard:copy="'ni ni-key-25'"
                         v-clipboard:success="onCopy"
                         title=""
                         data-original-title=" You have successfully reserved a bedspace in this room, check your activity for more details. Note: This is not your bedspace yet, it has been reserved pending payment and will be forfeited after a 24 hours of non payment">
                   <div>
-                    <i class="ni ni-vector"></i>
-                    <span>vector</span>
+                    <i class="ni ni-building"></i>
+                    <span>Room 101</span>
                   </div>
                 </button>
-              </b-col>
-              <b-col lg="3" md="6">
-                <button type="button" class="btn-icon-clipboard" v-clipboard:copy="'ni ni-watch-time'"
+              </b-col> <b-col lg="3" md="6">
+                <button type="button" class="btn-icon-clipboard" v-clipboard:copy="'ni ni-key-25'"
                         v-clipboard:success="onCopy"
                         title=""
                         data-original-title=" You have successfully reserved a bedspace in this room, check your activity for more details. Note: This is not your bedspace yet, it has been reserved pending payment and will be forfeited after a 24 hours of non payment">
                   <div>
-                    <i class="ni ni-watch-time"></i>
-                    <span>watch-time</span>
+                    <i class="ni ni-building"></i>
+                    <span>Room 101</span>
                   </div>
                 </button>
-              </b-col>
-              <b-col lg="3" md="6">
-                <button type="button" class="btn-icon-clipboard" v-clipboard:copy="'ni ni-world'"
+              </b-col> <b-col lg="3" md="6">
+                <button type="button" class="btn-icon-clipboard" v-clipboard:copy="'ni ni-key-25'"
                         v-clipboard:success="onCopy"
                         title=""
                         data-original-title=" You have successfully reserved a bedspace in this room, check your activity for more details. Note: This is not your bedspace yet, it has been reserved pending payment and will be forfeited after a 24 hours of non payment">
                   <div>
-                    <i class="ni ni-world"></i>
-                    <span>world</span>
+                    <i class="ni ni-building"></i>
+                    <span>Room 101</span>
                   </div>
                 </button>
-              </b-col>
-              <b-col lg="3" md="6">
-                <button type="button" class="btn-icon-clipboard" v-clipboard:copy="'ni ni-zoom-split-in'"
+              </b-col> <b-col lg="3" md="6">
+                <button type="button" class="btn-icon-clipboard" v-clipboard:copy="'ni ni-key-25'"
                         v-clipboard:success="onCopy"
                         title=""
                         data-original-title=" You have successfully reserved a bedspace in this room, check your activity for more details. Note: This is not your bedspace yet, it has been reserved pending payment and will be forfeited after a 24 hours of non payment">
                   <div>
-                    <i class="ni ni-zoom-split-in"></i>
-                    <span>zoom-split-in</span>
+                    <i class="ni ni-building"></i>
+                    <span>Room 101</span>
                   </div>
                 </button>
-              </b-col>
-              <b-col lg="3" md="6">
-                <button type="button" class="btn-icon-clipboard" v-clipboard:copy="'ni ni-collection'"
+              </b-col> <b-col lg="3" md="6">
+                <button type="button" class="btn-icon-clipboard" v-clipboard:copy="'ni ni-key-25'"
                         v-clipboard:success="onCopy"
                         title=""
                         data-original-title=" You have successfully reserved a bedspace in this room, check your activity for more details. Note: This is not your bedspace yet, it has been reserved pending payment and will be forfeited after a 24 hours of non payment">
                   <div>
-                    <i class="ni ni-collection"></i>
-                    <span>collection</span>
+                    <i class="ni ni-building"></i>
+                    <span>Room 101</span>
                   </div>
                 </button>
-              </b-col>
-              <b-col lg="3" md="6">
-                <button type="button" class="btn-icon-clipboard" v-clipboard:copy="'ni ni-image'"
+              </b-col> <b-col lg="3" md="6">
+                <button type="button" class="btn-icon-clipboard" v-clipboard:copy="'ni ni-key-25'"
                         v-clipboard:success="onCopy"
                         title=""
                         data-original-title=" You have successfully reserved a bedspace in this room, check your activity for more details. Note: This is not your bedspace yet, it has been reserved pending payment and will be forfeited after a 24 hours of non payment">
                   <div>
-                    <i class="ni ni-image"></i>
-                    <span>image</span>
+                    <i class="ni ni-building"></i>
+                    <span>Room 101</span>
                   </div>
                 </button>
-              </b-col>
-              <b-col lg="3" md="6">
-                <button type="button" class="btn-icon-clipboard" v-clipboard:copy="'ni ni-shop'"
+              </b-col> <b-col lg="3" md="6">
+                <button type="button" class="btn-icon-clipboard" v-clipboard:copy="'ni ni-key-25'"
                         v-clipboard:success="onCopy"
                         title=""
                         data-original-title=" You have successfully reserved a bedspace in this room, check your activity for more details. Note: This is not your bedspace yet, it has been reserved pending payment and will be forfeited after a 24 hours of non payment">
                   <div>
-                    <i class="ni ni-shop"></i>
-                    <span>shop</span>
+                    <i class="ni ni-building"></i>
+                    <span>Room 101</span>
                   </div>
                 </button>
-              </b-col>
-              <b-col lg="3" md="6">
-                <button type="button" class="btn-icon-clipboard" v-clipboard:copy="'ni ni-ungroup'"
+              </b-col> <b-col lg="3" md="6">
+                <button type="button" class="btn-icon-clipboard" v-clipboard:copy="'ni ni-key-25'"
                         v-clipboard:success="onCopy"
                         title=""
                         data-original-title=" You have successfully reserved a bedspace in this room, check your activity for more details. Note: This is not your bedspace yet, it has been reserved pending payment and will be forfeited after a 24 hours of non payment">
                   <div>
-                    <i class="ni ni-ungroup"></i>
-                    <span>ungroup</span>
+                    <i class="ni ni-building"></i>
+                    <span>Room 101</span>
                   </div>
                 </button>
-              </b-col>
-              <b-col lg="3" md="6">
-                <button type="button" class="btn-icon-clipboard" v-clipboard:copy="'ni ni-world-2'"
+              </b-col> <b-col lg="3" md="6">
+                <button type="button" class="btn-icon-clipboard" v-clipboard:copy="'ni ni-key-25'"
                         v-clipboard:success="onCopy"
                         title=""
                         data-original-title=" You have successfully reserved a bedspace in this room, check your activity for more details. Note: This is not your bedspace yet, it has been reserved pending payment and will be forfeited after a 24 hours of non payment">
                   <div>
-                    <i class="ni ni-world-2"></i>
-                    <span>world-2</span>
+                    <i class="ni ni-building"></i>
+                    <span>Room 101</span>
                   </div>
                 </button>
-              </b-col>
-              <b-col lg="3" md="6">
-                <button type="button" class="btn-icon-clipboard" v-clipboard:copy="'ni ni-ui-04'"
+              </b-col> <b-col lg="3" md="6">
+                <button type="button" class="btn-icon-clipboard" v-clipboard:copy="'ni ni-key-25'"
                         v-clipboard:success="onCopy"
                         title=""
                         data-original-title=" You have successfully reserved a bedspace in this room, check your activity for more details. Note: This is not your bedspace yet, it has been reserved pending payment and will be forfeited after a 24 hours of non payment">
                   <div>
-                    <i class="ni ni-ui-04"></i>
-                    <span>ui-04</span>
+                    <i class="ni ni-building"></i>
+                    <span>Room 101</span>
+                  </div>
+                </button>
+              </b-col> <b-col lg="3" md="6">
+                <button type="button" class="btn-icon-clipboard" v-clipboard:copy="'ni ni-key-25'"
+                        v-clipboard:success="onCopy"
+                        title=""
+                        data-original-title=" You have successfully reserved a bedspace in this room, check your activity for more details. Note: This is not your bedspace yet, it has been reserved pending payment and will be forfeited after a 24 hours of non payment">
+                  <div>
+                    <i class="ni ni-building"></i>
+                    <span>Room 101</span>
+                  </div>
+                </button>
+              </b-col> <b-col lg="3" md="6">
+                <button type="button" class="btn-icon-clipboard" v-clipboard:copy="'ni ni-key-25'"
+                        v-clipboard:success="onCopy"
+                        title=""
+                        data-original-title=" You have successfully reserved a bedspace in this room, check your activity for more details. Note: This is not your bedspace yet, it has been reserved pending payment and will be forfeited after a 24 hours of non payment">
+                  <div>
+                    <i class="ni ni-building"></i>
+                    <span>Room 101</span>
+                  </div>
+                </button>
+              </b-col> <b-col lg="3" md="6">
+                <button type="button" class="btn-icon-clipboard" v-clipboard:copy="'ni ni-key-25'"
+                        v-clipboard:success="onCopy"
+                        title=""
+                        data-original-title=" You have successfully reserved a bedspace in this room, check your activity for more details. Note: This is not your bedspace yet, it has been reserved pending payment and will be forfeited after a 24 hours of non payment">
+                  <div>
+                    <i class="ni ni-building"></i>
+                    <span>Room 101</span>
+                  </div>
+                </button>
+              </b-col> <b-col lg="3" md="6">
+                <button type="button" class="btn-icon-clipboard" v-clipboard:copy="'ni ni-key-25'"
+                        v-clipboard:success="onCopy"
+                        title=""
+                        data-original-title=" You have successfully reserved a bedspace in this room, check your activity for more details. Note: This is not your bedspace yet, it has been reserved pending payment and will be forfeited after a 24 hours of non payment">
+                  <div>
+                    <i class="ni ni-building"></i>
+                    <span>Room 101</span>
+                  </div>
+                </button>
+              </b-col> <b-col lg="3" md="6">
+                <button type="button" class="btn-icon-clipboard" v-clipboard:copy="'ni ni-key-25'"
+                        v-clipboard:success="onCopy"
+                        title=""
+                        data-original-title=" You have successfully reserved a bedspace in this room, check your activity for more details. Note: This is not your bedspace yet, it has been reserved pending payment and will be forfeited after a 24 hours of non payment">
+                  <div>
+                    <i class="ni ni-building"></i>
+                    <span>Room 101</span>
+                  </div>
+                </button>
+              </b-col> <b-col lg="3" md="6">
+                <button type="button" class="btn-icon-clipboard" v-clipboard:copy="'ni ni-key-25'"
+                        v-clipboard:success="onCopy"
+                        title=""
+                        data-original-title=" You have successfully reserved a bedspace in this room, check your activity for more details. Note: This is not your bedspace yet, it has been reserved pending payment and will be forfeited after a 24 hours of non payment">
+                  <div>
+                    <i class="ni ni-building"></i>
+                    <span>Room 101</span>
+                  </div>
+                </button>
+              </b-col> <b-col lg="3" md="6">
+                <button type="button" class="btn-icon-clipboard" v-clipboard:copy="'ni ni-key-25'"
+                        v-clipboard:success="onCopy"
+                        title=""
+                        data-original-title=" You have successfully reserved a bedspace in this room, check your activity for more details. Note: This is not your bedspace yet, it has been reserved pending payment and will be forfeited after a 24 hours of non payment">
+                  <div>
+                    <i class="ni ni-building"></i>
+                    <span>Room 101</span>
+                  </div>
+                </button>
+              </b-col> <b-col lg="3" md="6">
+                <button type="button" class="btn-icon-clipboard" v-clipboard:copy="'ni ni-key-25'"
+                        v-clipboard:success="onCopy"
+                        title=""
+                        data-original-title=" You have successfully reserved a bedspace in this room, check your activity for more details. Note: This is not your bedspace yet, it has been reserved pending payment and will be forfeited after a 24 hours of non payment">
+                  <div>
+                    <i class="ni ni-building"></i>
+                    <span>Room 101</span>
+                  </div>
+                </button>
+              </b-col> <b-col lg="3" md="6">
+                <button type="button" class="btn-icon-clipboard" v-clipboard:copy="'ni ni-key-25'"
+                        v-clipboard:success="onCopy"
+                        title=""
+                        data-original-title=" You have successfully reserved a bedspace in this room, check your activity for more details. Note: This is not your bedspace yet, it has been reserved pending payment and will be forfeited after a 24 hours of non payment">
+                  <div>
+                    <i class="ni ni-building"></i>
+                    <span>Room 101</span>
+                  </div>
+                </button>
+              </b-col> <b-col lg="3" md="6">
+                <button type="button" class="btn-icon-clipboard" v-clipboard:copy="'ni ni-key-25'"
+                        v-clipboard:success="onCopy"
+                        title=""
+                        data-original-title=" You have successfully reserved a bedspace in this room, check your activity for more details. Note: This is not your bedspace yet, it has been reserved pending payment and will be forfeited after a 24 hours of non payment">
+                  <div>
+                    <i class="ni ni-building"></i>
+                    <span>Room 101</span>
+                  </div>
+                </button>
+              </b-col> <b-col lg="3" md="6">
+                <button type="button" class="btn-icon-clipboard" v-clipboard:copy="'ni ni-key-25'"
+                        v-clipboard:success="onCopy"
+                        title=""
+                        data-original-title=" You have successfully reserved a bedspace in this room, check your activity for more details. Note: This is not your bedspace yet, it has been reserved pending payment and will be forfeited after a 24 hours of non payment">
+                  <div>
+                    <i class="ni ni-building"></i>
+                    <span>Room 101</span>
+                  </div>
+                </button>
+              </b-col> <b-col lg="3" md="6">
+                <button type="button" class="btn-icon-clipboard" v-clipboard:copy="'ni ni-key-25'"
+                        v-clipboard:success="onCopy"
+                        title=""
+                        data-original-title=" You have successfully reserved a bedspace in this room, check your activity for more details. Note: This is not your bedspace yet, it has been reserved pending payment and will be forfeited after a 24 hours of non payment">
+                  <div>
+                    <i class="ni ni-building"></i>
+                    <span>Room 101</span>
+                  </div>
+                </button>
+              </b-col> <b-col lg="3" md="6">
+                <button type="button" class="btn-icon-clipboard" v-clipboard:copy="'ni ni-key-25'"
+                        v-clipboard:success="onCopy"
+                        title=""
+                        data-original-title=" You have successfully reserved a bedspace in this room, check your activity for more details. Note: This is not your bedspace yet, it has been reserved pending payment and will be forfeited after a 24 hours of non payment">
+                  <div>
+                    <i class="ni ni-building"></i>
+                    <span>Room 101</span>
+                  </div>
+                </button>
+              </b-col> <b-col lg="3" md="6">
+                <button type="button" class="btn-icon-clipboard" v-clipboard:copy="'ni ni-key-25'"
+                        v-clipboard:success="onCopy"
+                        title=""
+                        data-original-title=" You have successfully reserved a bedspace in this room, check your activity for more details. Note: This is not your bedspace yet, it has been reserved pending payment and will be forfeited after a 24 hours of non payment">
+                  <div>
+                    <i class="ni ni-building"></i>
+                    <span>Room 101</span>
+                  </div>
+                </button>
+              </b-col> <b-col lg="3" md="6">
+                <button type="button" class="btn-icon-clipboard" v-clipboard:copy="'ni ni-key-25'"
+                        v-clipboard:success="onCopy"
+                        title=""
+                        data-original-title=" You have successfully reserved a bedspace in this room, check your activity for more details. Note: This is not your bedspace yet, it has been reserved pending payment and will be forfeited after a 24 hours of non payment">
+                  <div>
+                    <i class="ni ni-building"></i>
+                    <span>Room 101</span>
+                  </div>
+                </button>
+              </b-col> <b-col lg="3" md="6">
+                <button type="button" class="btn-icon-clipboard" v-clipboard:copy="'ni ni-key-25'"
+                        v-clipboard:success="onCopy"
+                        title=""
+                        data-original-title=" You have successfully reserved a bedspace in this room, check your activity for more details. Note: This is not your bedspace yet, it has been reserved pending payment and will be forfeited after a 24 hours of non payment">
+                  <div>
+                    <i class="ni ni-building"></i>
+                    <span>Room 101</span>
+                  </div>
+                </button>
+              </b-col> <b-col lg="3" md="6">
+                <button type="button" class="btn-icon-clipboard" v-clipboard:copy="'ni ni-key-25'"
+                        v-clipboard:success="onCopy"
+                        title=""
+                        data-original-title=" You have successfully reserved a bedspace in this room, check your activity for more details. Note: This is not your bedspace yet, it has been reserved pending payment and will be forfeited after a 24 hours of non payment">
+                  <div>
+                    <i class="ni ni-building"></i>
+                    <span>Room 101</span>
+                  </div>
+                </button>
+              </b-col> <b-col lg="3" md="6">
+                <button type="button" class="btn-icon-clipboard" v-clipboard:copy="'ni ni-key-25'"
+                        v-clipboard:success="onCopy"
+                        title=""
+                        data-original-title=" You have successfully reserved a bedspace in this room, check your activity for more details. Note: This is not your bedspace yet, it has been reserved pending payment and will be forfeited after a 24 hours of non payment">
+                  <div>
+                    <i class="ni ni-building"></i>
+                    <span>Room 101</span>
+                  </div>
+                </button>
+              </b-col> <b-col lg="3" md="6">
+                <button type="button" class="btn-icon-clipboard" v-clipboard:copy="'ni ni-key-25'"
+                        v-clipboard:success="onCopy"
+                        title=""
+                        data-original-title=" You have successfully reserved a bedspace in this room, check your activity for more details. Note: This is not your bedspace yet, it has been reserved pending payment and will be forfeited after a 24 hours of non payment">
+                  <div>
+                    <i class="ni ni-building"></i>
+                    <span>Room 101</span>
+                  </div>
+                </button>
+              </b-col> <b-col lg="3" md="6">
+                <button type="button" class="btn-icon-clipboard" v-clipboard:copy="'ni ni-key-25'"
+                        v-clipboard:success="onCopy"
+                        title=""
+                        data-original-title=" You have successfully reserved a bedspace in this room, check your activity for more details. Note: This is not your bedspace yet, it has been reserved pending payment and will be forfeited after a 24 hours of non payment">
+                  <div>
+                    <i class="ni ni-building"></i>
+                    <span>Room 101</span>
+                  </div>
+                </button>
+              </b-col> <b-col lg="3" md="6">
+                <button type="button" class="btn-icon-clipboard" v-clipboard:copy="'ni ni-key-25'"
+                        v-clipboard:success="onCopy"
+                        title=""
+                        data-original-title=" You have successfully reserved a bedspace in this room, check your activity for more details. Note: This is not your bedspace yet, it has been reserved pending payment and will be forfeited after a 24 hours of non payment">
+                  <div>
+                    <i class="ni ni-building"></i>
+                    <span>Room 101</span>
+                  </div>
+                </button>
+              </b-col> <b-col lg="3" md="6">
+                <button type="button" class="btn-icon-clipboard" v-clipboard:copy="'ni ni-key-25'"
+                        v-clipboard:success="onCopy"
+                        title=""
+                        data-original-title=" You have successfully reserved a bedspace in this room, check your activity for more details. Note: This is not your bedspace yet, it has been reserved pending payment and will be forfeited after a 24 hours of non payment">
+                  <div>
+                    <i class="ni ni-building"></i>
+                    <span>Room 101</span>
+                  </div>
+                </button>
+              </b-col> <b-col lg="3" md="6">
+                <button type="button" class="btn-icon-clipboard" v-clipboard:copy="'ni ni-key-25'"
+                        v-clipboard:success="onCopy"
+                        title=""
+                        data-original-title=" You have successfully reserved a bedspace in this room, check your activity for more details. Note: This is not your bedspace yet, it has been reserved pending payment and will be forfeited after a 24 hours of non payment">
+                  <div>
+                    <i class="ni ni-building"></i>
+                    <span>Room 101</span>
+                  </div>
+                </button>
+              </b-col> <b-col lg="3" md="6">
+                <button type="button" class="btn-icon-clipboard" v-clipboard:copy="'ni ni-key-25'"
+                        v-clipboard:success="onCopy"
+                        title=""
+                        data-original-title=" You have successfully reserved a bedspace in this room, check your activity for more details. Note: This is not your bedspace yet, it has been reserved pending payment and will be forfeited after a 24 hours of non payment">
+                  <div>
+                    <i class="ni ni-building"></i>
+                    <span>Room 101</span>
+                  </div>
+                </button>
+              </b-col> <b-col lg="3" md="6">
+                <button type="button" class="btn-icon-clipboard" v-clipboard:copy="'ni ni-key-25'"
+                        v-clipboard:success="onCopy"
+                        title=""
+                        data-original-title=" You have successfully reserved a bedspace in this room, check your activity for more details. Note: This is not your bedspace yet, it has been reserved pending payment and will be forfeited after a 24 hours of non payment">
+                  <div>
+                    <i class="ni ni-building"></i>
+                    <span>Room 101</span>
                   </div>
                 </button>
               </b-col>
-
             </b-row>
           </card>
         </b-col>
