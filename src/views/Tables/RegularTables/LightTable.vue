@@ -58,6 +58,14 @@
           </div>
         </template>
       </el-table-column>
+
+       <el-table-column label="Action" prop="completion" min-width="200px">
+        <template>
+          <div class="d-flex align-items-center">
+              <button class="btn btn-outline-dark py-1 px-sm-2">Print receipt</button>
+           </div>
+        </template>
+      </el-table-column>
     </el-table>
 
     <!-- <b-card-footer class="py-4 d-flex justify-content-end">
