@@ -35,10 +35,10 @@
                <span class="nav-link-inner--text">Login</span>
            </b-nav-item>
            
-           <b-nav-item to="/profile">
+           <!-- <b-nav-item to="/profile">
                <i class="ni ni-single-02"></i>
                <span class="nav-link-inner--text">Profile</span>
-           </b-nav-item>
+           </b-nav-item> -->
        </b-navbar-nav>
      </template>
     </base-nav>
