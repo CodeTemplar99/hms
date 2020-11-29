@@ -54,7 +54,7 @@
                   </base-input>
                   <div class="text-center">
                     <b-button type="submit" variant="primary" class="mt-4"
-                      >Create account</b-button
+                      >Send me verification mail</b-button
                     >
                   </div>
                 </b-form>
