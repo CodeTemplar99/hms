@@ -7,8 +7,7 @@
           <b-row class="justify-content-center">
             <b-col xl="5" lg="6" md="8" class="px-5">
               <h1 class="text-white">Welcome!</h1>
-              <p class="text-lead text-white">Use these awesome forms to login or create new account in your project for
-                free.</p>
+              <p class="text-lead text-white">Use your correct details to login to the school hostel portal</p>
             </b-col>
           </b-row>
         </div>
