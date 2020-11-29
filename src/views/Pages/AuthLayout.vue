@@ -30,18 +30,11 @@
          </b-row>
        </div>
          <b-navbar-nav  class="align-items-lg-center ml-lg-auto">
-           <b-nav-item to="/dashboard">
-               <i class="ni ni-planet"></i>
-               <span class="nav-link-inner--text">Dashboard</span>
-           </b-nav-item>
-           <b-nav-item to="/register">
-               <i class="ni ni-circle-08"></i>
-               <span class="nav-link-inner--text">Register</span>
-           </b-nav-item>
            <b-nav-item to="/login">
                <i class="ni ni-key-25"></i>
                <span class="nav-link-inner--text">Login</span>
            </b-nav-item>
+           
            <b-nav-item to="/profile">
                <i class="ni ni-single-02"></i>
                <span class="nav-link-inner--text">Profile</span>
