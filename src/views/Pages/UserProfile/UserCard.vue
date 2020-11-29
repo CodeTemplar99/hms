@@ -30,8 +30,8 @@
               <span class="description">Session</span>
             </div>
               <div>
-              <span class="heading">2ND</span>
-              <span class="description">Semester</span>
+              <span class="heading">Current hall</span>
+              <span class="description">Aja Nwachukwu</span>
             </div>
           </div>
         </b-col>
