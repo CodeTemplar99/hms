@@ -49,7 +49,7 @@
 
                   <b-form-checkbox v-model="model.rememberMe">Remember me</b-form-checkbox>
                   <div class="text-center">
-                    <base-button type="primary" native-type="submit" class="my-4">Sign in</base-button>
+                    <base-button type="primary" native-type="submit" class="my-4">Login</base-button>
                   </div>
                 </b-form>
               </validation-observer>
