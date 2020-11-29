@@ -26,9 +26,6 @@
         <b-col lg="5" md="7">
           <b-card no-body class="bg-secondary border-0 mb-0">
             <b-card-body class="px-lg-5 py-lg-5">
-              <div class="text-center text-muted mb-4">
-                <small>Or sign in with credentials</small>
-              </div>
               <validation-observer v-slot="{handleSubmit}" ref="formValidator">
                 <b-form role="form" @submit.prevent="handleSubmit(onSubmit)">
                   <base-input alternative
