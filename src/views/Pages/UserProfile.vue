@@ -11,10 +11,10 @@
 
     <b-container fluid class="mt--6">
       <b-row>
-        <b-col xl="12" class="order-xl-2 mb-5">
+        <b-col xl="12" class="order-xl-1 mb-5">
           <user-card></user-card>
         </b-col>
-        <b-col xl="0" class="order-xl-1">
+        <b-col xl="12" class="order-xl-2">
           <edit-profile-form></edit-profile-form>
         </b-col>
       </b-row>
