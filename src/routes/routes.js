@@ -19,7 +19,7 @@ const routes = [
       },
       {
         path: '/icons',
-        name: 'icons',
+        name: 'Accomodation',
         component: () => import(/* webpackChunkName: "demo" */ '../views/Icons.vue')
       },
       {
@@ -34,7 +34,7 @@ const routes = [
       },
       {
         path: '/tables',
-        name: 'tables',
+        name: 'Activity',
         component: () => import(/* webpackChunkName: "demo" */ '../views/RegularTables.vue')
       }
     ]
