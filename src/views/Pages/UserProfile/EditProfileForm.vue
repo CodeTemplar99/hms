@@ -136,7 +136,7 @@
             </base-input>
           </b-col>
         </b-row>
-      <button class="btn btn-outline-primary">update password</button>
+        <button class="btn btn-outline-primary">update password</button>
       </div>
     </b-form>
   </card>
