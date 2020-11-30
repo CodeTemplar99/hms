@@ -2,20 +2,22 @@
   <b-card no-body>
     <b-card-header class="border-0">
       <h3 class="mb-0">Activity Table</h3>
-          <form>
-              <div class="form-group m-0 p-0 col-sm-12 d-flex flex-column justify-content-center align-items-end">
-                <label for="exampleFormControlSelect1">Select session to filter activity results</label>
-                <select class="form-control col-sm-3" id="exampleFormControlSelect1">
-                  <option>2017/2018</option>
-                  <option>1</option>
-                  <option>2</option>
-                  <option>3</option>
-                  <option>4</option>
-                </select>
-              </div>
-             
-            </form>
-        
+      <form>
+        <div
+          class="form-group m-0 p-0 col-sm-12 d-flex flex-column justify-content-center align-items-end"
+        >
+          <label for="exampleFormControlSelect1"
+            >Select session to filter activity results</label
+          >
+          <select class="form-control col-sm-3" id="exampleFormControlSelect1">
+            <option>2017/2018</option>
+            <option>1</option>
+            <option>2</option>
+            <option>3</option>
+            <option>4</option>
+          </select>
+        </div>
+      </form>
     </b-card-header>
 
     <el-table
@@ -59,11 +61,16 @@
         </template>
       </el-table-column>
 
-       <el-table-column label="Action" prop="completion" min-width="200px">
+      <el-table-column label="Action" prop="completion" min-width="200px">
         <template>
           <div class="d-flex align-items-center">
-              <button class="btn btn-outline-dark py-1 px-sm-2">Print receipt</button>
-           </div>
+            <button
+              class="btn btn-outline-dark py-1 px-sm-2"
+              @click="printHostelData"
+            >
+              Print receipt
+            </button>
+          </div>
         </template>
       </el-table-column>
     </el-table>
@@ -87,6 +94,11 @@ export default {
       projects,
       currentPage: 1,
     };
+  },
+  methods:{
+     printHostelData: function() {
+      window.print();
+    }
   },
 };
 </script>
