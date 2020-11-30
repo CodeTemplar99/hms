@@ -12,14 +12,19 @@
 
     <b-card-header class="text-center border-0 pt-8 pt-md-4 pb-0 pb-md-4">
       <div class="d-flex justify-content-between">
-        <!-- <a href="#" class="btn btn-sm btn-info mr-4">Connect</a> -->
-        <!-- <a href="#" class="btn btn-sm btn-default float-right">Message</a> -->
+        <a href="#" class="btn btn-sm btn-info mr-4 invisible">Connect</a>
+        <a
+          href="#"
+          class="btn btn-md btn-outline-dark float-right"
+          @click="printProfile"
+          >print profile</a
+        >
       </div>
     </b-card-header>
 
     <b-card-body class="pt-0">
       <b-row>
-        <b-col >
+        <b-col>
           <div class="card-profile-stats d-flex justify-content-center mt-md-6">
             <div>
               <span class="heading">200</span>
@@ -29,7 +34,7 @@
               <span class="heading">2019/2020</span>
               <span class="description">Session</span>
             </div>
-              <div>
+            <div>
               <span class="heading">Current hall</span>
               <span class="description">Aja Nwachukwu</span>
             </div>
@@ -37,23 +42,28 @@
         </b-col>
       </b-row>
       <div class="text-center">
-        <h5 class="h1">
-          Kelechi Pyragle
-        </h5>
-        <div class="h3 mt-4">Computer Science, Physical Science
-        </div>
+        <h5 class="h1">Kelechi Pyragle</h5>
+        <div class="h3 mt-4">Computer Science, Physical Science</div>
         <div>
           <i class="ni education_hat mr-2"></i>University of Computer Science
         </div>
-        <hr class="my-4">
-        <p>--profile details gotten from student portal ---Please refer to student portal for changes</p>
+        <hr class="my-4" />
+        <p>
+          --profile details gotten from student portal ---Please refer to
+          student portal for changes
+        </p>
         <!-- <a href="#">Show more</a> -->
-
       </div>
     </b-card-body>
   </b-card>
 </template>
 <script>
-export default {};
+export default {
+  methods: {
+    printProfile: function () {
+      window.print();
+    },
+  },
+};
 </script>
 <style></style>
