@@ -106,38 +106,39 @@
           </b-col>
         </b-row>
       </div>
+
+      <h6 class="heading-small text-muted mb-4">Security</h6>
+
+      <div class="pl-lg-4">
+        <b-row>
+          <b-col lg="4">
+            <base-input
+              type="password"
+              label="Old Password"
+              placeholder="Old Password"
+            >
+            </base-input>
+          </b-col>
+          <b-col lg="4">
+            <base-input
+              type="password"
+              label="New Password"
+              placeholder="New Password"
+            >
+            </base-input>
+          </b-col>
+          <b-col lg="4">
+            <base-input
+              type="password"
+              label="Confirm Password"
+              placeholder="Confirm Password"
+            >
+            </base-input>
+          </b-col>
+        </b-row>
+      <button class="btn btn-outline-primary">update password</button>
+      </div>
     </b-form>
-
-    <h6 class="heading-small text-muted mb-4">Security</h6>
-
-    <div class="pl-lg-4">
-      <b-row>
-        <b-col lg="4">
-          <base-input
-            type="password"
-            label="Old Password"
-            placeholder="Old Password"
-          >
-          </base-input>
-        </b-col>
-        <b-col lg="4">
-          <base-input
-            type="password"
-            label="New Password"
-            placeholder="New Password"
-          >
-          </base-input>
-        </b-col>
-        <b-col lg="4">
-          <base-input
-            type="password"
-            label="Confirm Password"
-            placeholder="Confirm Password"
-          >
-          </base-input>
-        </b-col>
-      </b-row>
-    </div>
   </card>
 </template>
 <script>
