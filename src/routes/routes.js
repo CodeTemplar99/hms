@@ -33,9 +33,9 @@ const routes = [
         component: () => import(/* webpackChunkName: "demo" */ '../views/GoogleMaps.vue')
       },
       {
-        path: '/tables',
+        path: '/Activity',
         name: 'Activity',
-        component: () => import(/* webpackChunkName: "demo" */ '../views/RegularTables.vue')
+        component: () => import(/* webpackChunkName: "demo" */ '../views/ActivityTable.vue')
       }
     ]
   },

@@ -40,7 +40,7 @@
         <sidebar-item
                 :link="{
                   name: 'Activity',
-                  path: '/tables',
+                  path: '/Activity',
                   icon: 'ni ni-bullet-list-67 text-warning'
                 }">
         </sidebar-item>
