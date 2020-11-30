@@ -12,10 +12,10 @@
 
     <b-card-header class="text-center border-0 pt-8 pt-md-4 pb-0 pb-md-4">
       <div class="d-flex justify-content-between">
-        <a href="#" class="btn btn-sm btn-info mr-4 invisible">Connect</a>
+        <a href="#" class="btn btn-sm btn-info mr-4 invisible"></a>
         <a
           href="#"
-          class="btn btn-md btn-outline-dark float-right"
+          class="btn btn-sm btn-outline-dark float-right"
           @click="printProfile"
           >print profile</a
         >
