@@ -13,7 +13,8 @@
         <b-row>
           <b-col lg="6">
             <base-input
-              type="text"
+              type="text readonly"
+              readonly
               label="Username"
               placeholder="Username"
               v-model="user.username"
@@ -33,7 +34,8 @@
         <b-row>
           <b-col lg="6">
             <base-input
-              type="text"
+              type="text readonly"
+              readonly
               label="First Name"
               placeholder="First Name"
               v-model="user.firstName"
@@ -42,7 +44,8 @@
           </b-col>
           <b-col lg="6">
             <base-input
-              type="text"
+              type="text readonly"
+              readonly
               label="Last Name"
               placeholder="Last Name"
               v-model="user.lastName"
@@ -60,7 +63,8 @@
         <b-row>
           <b-col md="12">
             <base-input
-              type="text"
+              type="text readonly"
+              readonly
               label="Address"
               placeholder="Home Address"
               v-model="user.address"
@@ -71,7 +75,8 @@
         <b-row>
           <b-col lg="4">
             <base-input
-              type="text"
+              type="text readonly"
+              readonly
               label="City"
               placeholder="City"
               v-model="user.city"
@@ -80,7 +85,8 @@
           </b-col>
           <b-col lg="4">
             <base-input
-              type="text"
+              type="text readonly"
+              readonly
               label="Country"
               placeholder="Country"
               v-model="user.country"
@@ -105,7 +111,8 @@
      <b-row>
         <b-col lg="4">
           <base-input
-            type="text"
+            type="password"
+            readonly
             label="Old Password"
             placeholder="Old Password"
           >
@@ -113,7 +120,8 @@
         </b-col>
         <b-col lg="4">
           <base-input
-            type="text"
+            type="text readonly"
+            readonly
             label="New Password"
             placeholder="New Password"
           >
