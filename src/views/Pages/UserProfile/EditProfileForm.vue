@@ -13,7 +13,7 @@
         <b-row>
           <b-col lg="6">
             <base-input
-              type="text readonly"
+              type="text"
               readonly
               label="Username"
               placeholder="Username"
@@ -24,6 +24,7 @@
           <b-col lg="6">
             <base-input
               type="email"
+              readonly
               label="Email address"
               placeholder="mike@email.com"
               v-model="user.email"
@@ -34,7 +35,7 @@
         <b-row>
           <b-col lg="6">
             <base-input
-              type="text readonly"
+              type="text"
               readonly
               label="First Name"
               placeholder="First Name"
@@ -44,7 +45,7 @@
           </b-col>
           <b-col lg="6">
             <base-input
-              type="text readonly"
+              type="text"
               readonly
               label="Last Name"
               placeholder="Last Name"
@@ -63,7 +64,7 @@
         <b-row>
           <b-col md="12">
             <base-input
-              type="text readonly"
+              type="text"
               readonly
               label="Address"
               placeholder="Home Address"
@@ -75,7 +76,7 @@
         <b-row>
           <b-col lg="4">
             <base-input
-              type="text readonly"
+              type="text"
               readonly
               label="City"
               placeholder="City"
@@ -85,7 +86,7 @@
           </b-col>
           <b-col lg="4">
             <base-input
-              type="text readonly"
+              type="text"
               readonly
               label="Country"
               placeholder="Country"
@@ -95,6 +96,8 @@
           </b-col>
           <b-col lg="4">
             <base-input
+              type="text"
+              readonly
               label="Postal Code"
               placeholder="ZIP Code"
               v-model="user.postalCode"
@@ -108,11 +111,10 @@
     <h6 class="heading-small text-muted mb-4">Security</h6>
 
     <div class="pl-lg-4">
-     <b-row>
+      <b-row>
         <b-col lg="4">
           <base-input
             type="password"
-            readonly
             label="Old Password"
             placeholder="Old Password"
           >
@@ -120,8 +122,7 @@
         </b-col>
         <b-col lg="4">
           <base-input
-            type="text readonly"
-            readonly
+            type="password"
             label="New Password"
             placeholder="New Password"
           >
@@ -129,6 +130,7 @@
         </b-col>
         <b-col lg="4">
           <base-input
+            type="password"
             label="Confirm Password"
             placeholder="Confirm Password"
           >
