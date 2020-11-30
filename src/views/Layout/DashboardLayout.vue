@@ -15,7 +15,7 @@
         <sidebar-item
             :link="{
               name: 'Accomodation',
-              path: '/icons',
+              path: '/Accommodation',
               icon: 'ni ni-building text-info'
               }"
             >
