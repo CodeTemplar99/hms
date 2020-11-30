@@ -66,4 +66,12 @@ export default {
   },
 };
 </script>
-<style></style>
+<style>
+@media screen and (max-width: 320px) {
+  .card-profile-stats {
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+}
+</style>
